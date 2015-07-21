@@ -1,0 +1,26 @@
+{
+    "name": "laravel-junkies/blog",
+    "description": "An Blog Package using Laravel 5 and Bootstrap.",
+    "keywords": ["laravel", "blog", "bootstrap"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tobias Maxham",
+            "email": "git2015@maxham.de"
+        }
+    ],
+    "homepage": "http://maxham.de",
+    "support": {
+        "issues": "https://github.com/laravel-junkies/blog/issues",
+        "source": "https://github.com/laravel-junkies/blog"
+    },
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaraJunkie\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
