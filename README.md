@@ -1,5 +1,5 @@
 # Laravel Junkies - Blog
-An Blog Package using Laravel 5 and Bootstrap
+An Blog Package using Laravel 5 and Bootstrap.
 
 
 # Preview
