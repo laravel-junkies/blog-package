@@ -1,5 +1,5 @@
 {
-    "name": "laravel-junkies/blog",
+    "name": "laravel-junkies/blog-package",
     "description": "An Blog Package using Laravel 5 and Bootstrap.",
     "keywords": ["laravel", "blog", "bootstrap"],
     "license": "MIT",
