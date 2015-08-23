@@ -11,15 +11,15 @@
     ],
     "homepage": "http://maxham.de",
     "support": {
-        "issues": "https://github.com/laravel-junkies/blog/issues",
-        "source": "https://github.com/laravel-junkies/blog"
+        "issues": "https://github.com/laravel-junkies/blog-package/issues",
+        "source": "https://github.com/laravel-junkies/blog-package"
     },
     "require": {
         "php": ">=5.5.9"
     },
     "autoload": {
         "psr-4": {
-            "LaraJunkie\\": "src"
+            "LaraJunkie\\Blog": "src"
         }
     },
     "minimum-stability": "dev"
