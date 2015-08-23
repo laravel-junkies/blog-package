@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LaraJunkie\\Blog": "src"
+            "LaraJunkie\\Blog\\": "src"
         }
     },
     "minimum-stability": "dev"
